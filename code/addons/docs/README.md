@@ -142,6 +142,7 @@ module.exports = {
       options: {
         jsxOptions: {},
         csfPluginOptions: null,
+        mdxPluginOptions: {},
         transcludeMarkdown: true,
       },
     },
